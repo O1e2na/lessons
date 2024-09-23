@@ -1,0 +1,23 @@
+@import url("reset.css");
+
+
+.title {
+    color: #111;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px;
+        /* 128.571% */
+        letter-spacing: -0.28px;
+}
+
+.text {
+    color: blue;
+    font-size: 20px;
+}
+
+.footer {
+    color: blueviolet;
+    font-size: 20px;
+}
